@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F107E2A51A79C55A009FF958 /* PlayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F107E2A41A79C55A009FF958 /* PlayViewController.swift */; };
 		F1F4F6071A79B8EB00EF57F5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1F4F6061A79B8EB00EF57F5 /* AppDelegate.swift */; };
 		F1F4F6091A79B8EB00EF57F5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1F4F6081A79B8EB00EF57F5 /* ViewController.swift */; };
 		F1F4F60C1A79B8EB00EF57F5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1F4F60A1A79B8EB00EF57F5 /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F107E2A41A79C55A009FF958 /* PlayViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayViewController.swift; sourceTree = "<group>"; };
 		F1F4F6011A79B8EB00EF57F5 /* modal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = modal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1F4F6051A79B8EB00EF57F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F1F4F6061A79B8EB00EF57F5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 				F1F4F6061A79B8EB00EF57F5 /* AppDelegate.swift */,
 				F1F4F6081A79B8EB00EF57F5 /* ViewController.swift */,
 				F1F4F60A1A79B8EB00EF57F5 /* Main.storyboard */,
+				F107E2A41A79C55A009FF958 /* PlayViewController.swift */,
 				F1F4F60D1A79B8EB00EF57F5 /* Images.xcassets */,
 				F1F4F60F1A79B8EB00EF57F5 /* LaunchScreen.xib */,
 				F1F4F6041A79B8EB00EF57F5 /* Supporting Files */,
@@ -213,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F1F4F6091A79B8EB00EF57F5 /* ViewController.swift in Sources */,
+				F107E2A51A79C55A009FF958 /* PlayViewController.swift in Sources */,
 				F1F4F6071A79B8EB00EF57F5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -407,6 +411,7 @@
 				F1F4F6221A79B8EB00EF57F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F1F4F6231A79B8EB00EF57F5 /* Build configuration list for PBXNativeTarget "modalTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +420,7 @@
 				F1F4F6251A79B8EB00EF57F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
