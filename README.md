@@ -1,3 +1,3 @@
 # modal
 
-XCODE IPAD constrainsts Responsive edges
+XCODE IPAD constraints Responsive edges
